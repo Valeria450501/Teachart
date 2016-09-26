@@ -8,6 +8,7 @@
 * jQuery
 * SQLite
 * BSUIR schedule API
+
 ## User Interfaces
 Browse mockup directory.
 ## User Characteristics
