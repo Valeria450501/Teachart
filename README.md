@@ -18,12 +18,26 @@ The other part consists of entrants, university staff and etc.
 ## Assumptions and Dependencies
 * BSUIR schedule API could affect on believability of database.
 * SQLite is potential bottleneck of the system.
-
+* Bootstrap for adaptive layouts.
 # System Requirements
 ## Functional Requirements
-* rating lecturer.
-* adding comments to professor's personal page.
-* getting useful information about lecturers teaching process.
-
+* Homepage
+  * Share information about website
+  * Allow all types of users to find professor
+  * Navigate to top of the week
+* Top-n page
+  * Show professors chart
+  * Change sort type
+  * Filter chart with the help of searchbar
+* Lecturer page
+  * Professor's summary
+  * Possibillity to rate and leave feedback
+  * Add phrase to tag-cloud
+  * Show random statistics in chart form
+* Statistics page
+  * Full equiped charts
+  * Students satisfaction meter
+  * Statistics in text form
+  
 ## Non-Functional Requirements
-Information availability to any user could influence the preparedness of students, give them "power ups" during studying period.
+Website have to be adaptive, because most of the users will use it from smartphones.
