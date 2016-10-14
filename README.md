@@ -19,6 +19,7 @@ The other part consists of entrants, university staff and etc.
 * BSUIR schedule API could affect on believability of database.
 * SQLite is potential bottleneck of the system.
 * Bootstrap for adaptive layouts.
+
 # System Requirements
 ## Functional Requirements
 * Homepage
